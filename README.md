@@ -86,4 +86,4 @@ Roshan Gupta
 
 This project is free to use for education, learning, and practice.
 
-<p align="center">⭐ If you like this repository, don't forget to star it! ⭐</p> ```
+<p align="center">⭐ If you like this repository, don't forget to star it! ⭐</p>
